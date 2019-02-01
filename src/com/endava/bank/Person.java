@@ -8,9 +8,6 @@ public class Person {
     private int cellphone;
     private Date birthdate;
 
-    public Person() {
-    }
-
     public Person(int id, String name, int cellphone, Date birthdate) {
         this.id = id;
         this.name = name;
